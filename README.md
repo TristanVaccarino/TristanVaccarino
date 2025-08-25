@@ -1,5 +1,4 @@
-### This is mainly a placeholder for a special website about me!!
-If you would induldge me in moving your cursor [here](https://TristanVaccarino.github.io) and clicking I would greatly appreciate it 😁
+
 <!--
 **TristanVaccarino/TristanVaccarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
